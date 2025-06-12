@@ -82,7 +82,6 @@ pub mod escrow_transfer {
     //     msg!(
     //         "Withdraw successful! {} withdrawn back to {}",
     //         amount,
-    //         ctx.accounts.depositor.key()
     //     );
     //     Ok(())
     // }
